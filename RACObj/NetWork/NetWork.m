@@ -7,7 +7,7 @@
 //
 
 #import "NetWork.h"
-#import <AFNetworking.h>
+
 static NetWork *net = nil;
 @implementation NetWork
 
