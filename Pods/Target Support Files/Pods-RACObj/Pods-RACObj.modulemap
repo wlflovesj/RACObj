@@ -1,0 +1,6 @@
+module Pods_RACObj {
+  umbrella header "Pods-RACObj-umbrella.h"
+
+  export *
+  module * { export * }
+}
